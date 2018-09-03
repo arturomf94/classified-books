@@ -1,0 +1,5 @@
+clean_books_section_3.zip filter=lfs diff=lfs merge=lfs -text
+clean_books_section_4.zip filter=lfs diff=lfs merge=lfs -text
+classified_books.zip filter=lfs diff=lfs merge=lfs -text
+clean_books_section_1.zip filter=lfs diff=lfs merge=lfs -text
+clean_books_section_2.zip filter=lfs diff=lfs merge=lfs -text
