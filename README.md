@@ -8,5 +8,5 @@ This repository holds:
 
 * result_classification.csv: A csv that links file name in the classified_books.zip file to title and category. 
 
-The categorisation was made joining the tags in this repo [this repo](https://github.com/zygmuntz/goodbooks-10k) (first found as a [Kaggle dataset](https://www.kaggle.com/zygmunt/goodbooks-10k/version/5)) with the available books at the Gutenberg project. 
+The categorisation was made joining the tags in [this repo](https://github.com/zygmuntz/goodbooks-10k) (first found as a [Kaggle dataset](https://www.kaggle.com/zygmunt/goodbooks-10k/version/5)) with the available books at the Gutenberg project. 
 
